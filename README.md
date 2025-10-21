@@ -1,31 +1,34 @@
 # Click, Play, Learn: Hands-On AI for English Language Teaching and Assessment
 
-## Language models
+## Generative AI
 
-### Task
-**Create an open cloze exercise from the following text. Use a language model to identify optimal gap candidates.**
+**ChatGPT:** https://chat.openai.com  
+**Gemini:** https://gemini.google.com  
+**Claude:** https://claude.ai  
+**Llama:** https://www.llama.com/  
+**Grok:** https://grok.com  
+**Qwen:** https://qwen.ai/  
+**DeepSeek:** https://chat.deepseek.com/  
+  
+**Prompt directory:** https://prompts.chat/  
 
-Maria's working knowledge of Chinese led her to a chance encounter in a tea shop. Impressed by her fluency, an art dealer offered her an apprenticeship in Beijing. Her life transformed as she immersed herself in Chinese art, becoming a renowned curator whose expertise knew no borders.
-
-### BERT
-https://huggingface.co/xlm-roberta-large (multilingual)  
-https://huggingface.co/spaces/UserConfused/bert-base-uncased  
-https://huggingface.co/spaces/docs-demos/bert-base-uncased  
-https://huggingface.co/bert-base-uncased  
-https://huggingface.co/bert-large-uncased  
-
-### GTP-2 next word predictors
-https://huggingface.co/spaces/Bhagu69/next-word-fun  
-
-### N-gram next word predictors
-https://fschoen.shinyapps.io/NextWordPrediction/  
-https://philferriere.shinyapps.io/WordPredictR/
+### Task: Content creation  
+**Generate a 200-word text passage about the invention of the radio for students at the C1 CEFR level. Next, generate a suitable word list, a true/false exercise (with 5 items), and a multiple-choice cloze test (with 10 items and 4 options each). What is the quality like? Do they need further editing?**  
+  
+### Task: Task automation  
+**Create a *gem* in Google Gemini to automate the creation of text passages and associated reading comprehension exercises, given a topic, number of words and CEFR level.**  
+  
+### Task: Creating a poster  
+**Create a poster to teach A1 learners how to tell the time. The poster must show a big clock and appropriate phrases. Is it accurate? Can you change details of the image, such as the style of the clock?**  
+  
+### Task: Creating a short video  
+**Using an existing GPT (e.g. Invideo) on ChatGPT, create a 30-second fun video about homophones in English for B2 learners.**  
 
 ## Automated essay scoring
 
-### Quiz
-**Choose the most appropriate CEFR level for a short student essay.**
-
+### Task: Feature-based AES vs. LLMs  
+**Score a sample student essay using a feature-based IELTS scoring model and an LLM. Which of them seems more accurate?**  
+  
 In today’s world, the fashion industry has a strong importance in people’s lives. The fashion industry say to the society what to wear and creates new types of clothes all the time.  
 Some people claim that the fashion industry has a bad effect on people’s lives, they say that the fashion industry creates clothes that the society has to wear. Furthermore, the clothes’ price is extremely high and people, who can’t afford it, should not be in the society.  
 In the other hand, the fashion industry guide the people to be in a good appearance, because, nowadays, the appearance of the person is more important than the person itself.  
