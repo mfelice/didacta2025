@@ -62,9 +62,9 @@ The best time of the day which I like the most is during the evening, like aroun
 **OpenAI Whisper:** https://huggingface.co/spaces/openai/whisper | https://course-demos-whisper-small.hf.space/  
 **TalkNotes:** https://talknotes.io/tools/transcribe-to-text  
 **Aspose:** https://products.aspose.ai/total/speech-to-text/  
-**Speech-to-text:** https://www.speech-to-text.cloud/
-**turboScribe:** https://turboscribe.ai/dashboard
-**Speechnotes:** https://speechnotes.co/dictate/
+**Speech-to-text:** https://www.speech-to-text.cloud/  
+**TurboScribe:** https://turboscribe.ai/dashboard  
+**Speechnotes:** https://speechnotes.co/dictate/  
 
 
 ### WER calculators
@@ -83,8 +83,8 @@ https://teksta.no/en/word-error-rate/
 **Using an LLM, create sentences that focus on common aspects of pronunciation that learners often find difficult (e.g. short vs long vowels). Next, generate model spoken versions using a TTS service.**  
 
 ### Task: Creating your own speaking scripts  
-**Create a listening comprehension question consisting of a dialogue between three people with different accents.  
-1. Create a short dialogue and question.  
+**Create a listening comprehension question consisting of a dialogue between three people with different accents.**  
+**1. Create a short dialogue and question.  
 2. Create an audio file for each turn of the conversation using a TTS service.  
 3. Join all the audio files together.**  
 
