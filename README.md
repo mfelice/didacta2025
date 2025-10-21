@@ -27,7 +27,7 @@
 ## Automated essay scoring
 
 ### Task: Feature-based AES vs. LLMs  
-**Score a sample student essay using a feature-based IELTS scoring model and an LLM. Which of them seems more accurate?**  
+**Assign a CEFR level to a sample student essay using a feature-based AES system (e.g. Write&Improve) and an LLM. Which of them seems more accurate?**  
   
 In today’s world, the fashion industry has a strong importance in people’s lives. The fashion industry say to the society what to wear and creates new types of clothes all the time.  
 Some people claim that the fashion industry has a bad effect on people’s lives, they say that the fashion industry creates clothes that the society has to wear. Furthermore, the clothes’ price is extremely high and people, who can’t afford it, should not be in the society.  
@@ -37,37 +37,21 @@ In my opinion, the fashion industry doesn’t has a bad influence on people’s 
 ### Write&Improve
 https://writeandimprove.com/workbooks#/wi-workbooks
 
-## Grammatical error correction
-
-### Task
-**Correct the following essay:**
-
-My favourite season of the year is summer. I think that most of the people love summer, especially the people in Greece. I dont know why but the summer it is the most beautiful season.  
-I live in Greece, and especially in an island, so I know very well what summer means. It means swimming at the wonderfull beaches, tasting the delicious foods ad having wonderful time every day and every night with your friends.  
-I think that the summer makes people to feel great, to have fun, to enjoy themselves. I believe that the summer is a season for everybody who wants to have wonderful time and wonderful memories wherever the go.  
-
-### Online grammar checkers
-**Grammarly:** https://www.grammarly.com/grammar-check  
-**QuillBot:** https://quillbot.com/grammar-check  
-**Ginger:** https://www.gingersoftware.com/grammarcheck  
-**Linguix:** https://writer.com/grammar-checker/  
-**ProWritingAid:** https://prowritingaid.com/grammar-checker  
-**PaperRater:** https://www.paperrater.com/free_paper_grader  
-**Reverso:** https://www.reverso.net/spell-checker/english-spelling-grammar/  
-
-
-### ERRANT
-https://nlptoolbox.cl.cam.ac.uk/errant/
+### IELTS essay scorers  
+https://www.writinglab.io/ielts-essay-checker  
+https://engnovate.com/ielts-writing-task-2-essay-checker/  
+https://upscore.ai/trainer  
 
 ## Automatic speech recognition
-**Task**
+**Task: Evaluating ASR systems**
 1. Listen to the following audio clip and manually transcribe what you hear.
 2. Use an ASR service to generate an automatic transcription of the audio.
-3. Compare both transcriptions and compute a word error rate (WER).
+3. Compare both transcriptions and compute WER. Which ASR system is better?
+
 
 https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826e84a93e9
 
-Download the audio file: [here](https://filebin.net/o7fq43zgxtufoonv/asr-audio-clip.mp3)
+Download the audio file: [here](https://filebin.net/nlgk9awv2916f1fj/asr-audio-clip.mp3)
 
 ### ASR services
 **OpenAI Whisper**   
