@@ -45,8 +45,8 @@ https://deepielts.com/
 
 ## Automatic speech recognition
 ### Task: Evaluating ASR systems  
-**1. Listen to the following audio clip and manually transcribe what you hear.
-2. Use an ASR service to generate an automatic transcription of the audio.
+**1. Listen to the following audio clip and manually transcribe what you hear.  
+2. Use an ASR service to generate an automatic transcription of the audio.  
 3. Compare both transcriptions and compute WER. Which ASR system is better?**  
 
 
@@ -54,7 +54,7 @@ https://github.com/mfelice/ndea2023/assets/11545607/6e04db93-05f3-4ea6-afab-5826
 
 Download the audio file: [here](https://filebin.net/nlgk9awv2916f1fj/asr-audio-clip.mp3)  
 
-**Reference transcript**
+**Reference transcript**  
 The best time of the day which I like the most is during the evening, like around 5 or 6 PM. I usually have uh some snacks, or sometimes I have to make plans to go hang out with my friends. Like we can go to uh some eatery, or go to watch a film in the cinema. And then when I come back home, I like to spend time playing with my younger sister or just enjoy reading my favourite comics.  
 
 
@@ -74,7 +74,7 @@ https://teksta.no/en/word-error-rate/
 
 
 ### Task: Automatic speaking assessment
-**1. Using an LLM, write a prompt to perform automatic speaking performance assessment on three aspects: fluency, language use and pronunciation. Ask the LLM to try to guess the learner’s L1 and provide reasons for its decision.
+**1. Using an LLM, write a prompt to perform automatic speaking performance assessment on three aspects: fluency, language use and pronunciation. Ask the LLM to try to guess the learner’s L1 and provide reasons for its decision.  
 2. Upload an audio file or (record yourself reading aloud). Is the assessment accurate?**  
 
 
@@ -83,9 +83,9 @@ https://teksta.no/en/word-error-rate/
 **Using an LLM, create sentences that focus on common aspects of pronunciation that learners often find difficult (e.g. short vs long vowels). Next, generate model spoken versions using a TTS service.**  
 
 ### Task: Creating your own speaking scripts  
-**Create a listening comprehension question consisting of a dialogue between three people with different accents.
-1. Create a short dialogue and question.
-2. Create an audio file for each turn of the conversation using a TTS service.
+**Create a listening comprehension question consisting of a dialogue between three people with different accents.  
+1. Create a short dialogue and question.  
+2. Create an audio file for each turn of the conversation using a TTS service.  
 3. Join all the audio files together.**  
 
 **Sample dialogue**  
